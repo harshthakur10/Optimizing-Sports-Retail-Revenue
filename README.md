@@ -17,32 +17,32 @@
 - Website Traffic: Metrics on website visits and interactions related to sales performance.
 
 ## KPIs and Conclusions
-**Data Quality Before Analysis:**
+**1. Data Quality Before Analysis:**
 Ensured high data quality by addressing missing values and inconsistencies. This robust dataset provides a reliable foundation for accurate analysis.
 
-**Competitive Pricing Analysis Between Major Brands:**
+**2. Competitive Pricing Analysis Between Major Brands:**
 Pricing strategies varied significantly between Adidas and Nike. Nike’s higher average listing price suggests a premium positioning, while Adidas’s competitive pricing may attract more budget-conscious customers.
 
-**Product Segmentation for Marketing or Inventory Management:**
+**3. Product Segmentation for Marketing or Inventory Management:**
 Segmentation by price range and brand highlighted key market segments. Targeted marketing strategies and optimized inventory management can enhance brand performance.
 
-**Correlation Coefficient:**
+**4. Correlation Coefficient:**
 Strong correlations were observed between key variables such as reviews and revenue. This insight aids in understanding how factors like product quality impact sales.
 
-**Seasonal Variations in Review Activity:**
+**5. Seasonal Variations in Review Activity:**
 Review activity showed noticeable seasonal trends, with peaks during specific periods. This information helps in planning marketing campaigns and understanding consumer behavior.
 
-**Quantitative Metrics Derived from CTE:**
+**6. Quantitative Metrics Derived from CTE:**
 Common Table Expressions (CTEs) provided valuable metrics for detailed analysis, including average revenue and product counts. This modular approach improved query efficiency and clarity.
 
-**Revenue Trends Over Time:**
+**7. Revenue Trends Over Time:**
 Revenue trends indicated consistent growth, with Nike showing a faster increase compared to Adidas. Long-term strategies should leverage these trends for sustained growth.
 
-**Product Quality and Its Impact on Sales Performance**
+**8. Product Quality and Its Impact on Sales Performance**
 Higher product quality ratings were positively correlated with increased revenue. Investing in product quality can drive higher sales and customer satisfaction.
 
-**ROI on Discount Effectiveness:**
+**9. ROI on Discount Effectiveness:**
 The ROI from discount strategies varied, with Adidas achieving better results. This suggests that discounting is a more effective strategy for Adidas compared to Nike.
 
-**Website Traffic:**
+**10. Website Traffic:**
 Nike attracted more website traffic than Adidas, reflecting stronger online presence or marketing effectiveness. Enhancing online strategies could further boost engagement.
