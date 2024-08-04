@@ -1,1 +1,1 @@
-# -Sports_Revenue_Analytics
+# Sports_Revenue_Analytics
